@@ -1,0 +1,84 @@
+/* Top Banner */
+header {
+  height: 150px;
+  width: 1500px;
+  background-image: url('http://farm4.staticflickr.com/3739/9953569113_16e110f33a_o.jpg');
+  background-repeat: repeat;
+  /*background-color: #56C3A1;*/
+  margin-top: -70px;
+  margin-left: -50px;
+  margin-right: -50px;
+}
+
+h1 {
+  font-family: "Abril FatFace", cursive;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 90px;
+}
+
+nav {
+  font-family: "Exo", cursive;
+  font-weight: bold;
+  text-align: center;
+  background-color: #00B290;
+  width: 1500px;
+  margin-left: -50px;
+  margin-right: -50px;
+}
+
+/* Body Text */
+h2 {
+  font-family: 'Baloo Tammudu', cursive;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: left;
+}
+
+h3 {
+  font-family: 'Baloo Tammudu', cursive;
+  font-size: 1.25rem;
+}
+
+h5 {
+  font-family: "Baloo Tammudu", cursive;
+  color: #00DEB0;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+p {
+  font-family: 'Exo', cursive;
+  font-size: 1.3rem;
+  }
+
+ul {
+  font-family: 'Exo', cursive;
+  font-size: 1.3rem;
+}
+
+/* Bottom Banner */
+footer{
+  text-align: center;
+  font-family: "Amatic SC", cursive;
+  font-size: 30px;
+  color: #FFFFFF;
+  background-color: #56C3A1;
+  height: 50px;
+  width: 1500px;
+  margin-bottom: -50px;
+  margin-left: -50px;
+}
+
+/* Main Picture */
+img.top {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Body Class */
+.wrapper {
+  width: 600px;
+  margin: auto;
+}
